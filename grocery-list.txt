@@ -3,3 +3,6 @@ Eggs
 Rice
 Chicken
  orange juice 
+ coffee
+ pears 
+  cherrise
